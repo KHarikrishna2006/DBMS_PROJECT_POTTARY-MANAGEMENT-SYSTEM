@@ -1,6 +1,6 @@
 # Pottery Management System
 
-## Overview
+## Overview 
 
 The **Pottery Management System** is a comprehensive Database Management System (DBMS) project designed to efficiently manage and organize pottery business operations. This system streamlines the management of products, customers, orders, inventory, and transactions in a pottery enterprise.
 
